@@ -5,7 +5,7 @@ Upgrade to Virtualbox 7.0 (done by BartekSz@GitHub)
 Added wsdl files for previous versions of VirtualBox (in case they are needed)
 Added Mageia Linux, Amazon Linux and Alma Linux icons (32-bit and 64-bit)
 Created src RPM .spec file and build .rpm package for Mageia 9 Linux OS.
-
+Tested with PHP 8.2.16 and Apache 2.4.58
 
 -------------------------------------
     6.0-0   
