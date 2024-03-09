@@ -42,25 +42,25 @@ please cease using this software immediately and remove any copies you may have 
 
 
 ## rpm package
-
 ### Mageia OS
-
+[done] phpvirtualbox-7.0.14-99.mga9 (works with virtualbox-7.0.14-99.mga9 + dkms-virtualbox-7.0.14-99.mga9 + virtualbox-kernel-6.6.14-desktop-2.mga9-7.0.14-99.mga9 + virtualbox-kernel-6.6.14-server-2.mga9-7.0.14-99.mga9)
 
 ## deb package 
-
-### TODO
-
-Read the wiki for more information: https://github.com/phpvirtualbox/phpvirtualbox/wiki
+TODO
 
 # Post installation
 
 Default login is username: admin password: admin
 
-Please report bugs / feature requests to yremora@GitHub
- (see https://github.com/yremora/phpvirtualbox/issues )
-
-
 # Password Recovery
 
 Rename the file recovery.php-disabled to recovery.php, navigate to it in
 your web browser, and follow the instructions presented.
+
+
+# Additional
+Read the wiki section for more information
+ ( see https://github.com/yremora/phpvirtualbox/wiki )
+
+Please report bugs / feature requests to yremora@GitHub
+ ( see https://github.com/yremora/phpvirtualbox/issues )
