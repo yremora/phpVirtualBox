@@ -4,7 +4,7 @@
 
 phpVirtualBox it is a web interface to manage and access VirtualBox machines.
 
-VirtualBox is a powerful hypervisor for x86-64 (and from v5.0 also supporting IA-32/x86-32) architechtures, developed by Oracle.
+VirtualBox is a powerful hypervisor for x86-64 (and from v5.0 also supporting IA-32/x86-32) architechtures, developed by Oracle Corporation.
 VirtualBox was originally created by InnoTek Systemberatung GmbH, which was acquired by Sun Microsystems in 2009, 
 which was in turn acquired by Oracle in 2010 (VirtualBox initial release: 17 January 2007)
 
@@ -43,12 +43,12 @@ please cease using this software immediately and remove any copies you may have 
 
 ## rpm package
 
-1) Mageia OS
+### Mageia OS
 
 
 ## deb package 
 
-1) TODO
+### TODO
 
 Read the wiki for more information: https://github.com/phpvirtualbox/phpvirtualbox/wiki
 
